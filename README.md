@@ -4,5 +4,5 @@ Fast and Secure :)
 
 Web-App: http://1click-keep.com/
 
-Open source : https://github.com/etherscam/Keep1ClickNode/blob/master/1ClickKeep.py
+Open source (1ClickKeep.py): https://github.com/etherscam/Keep1ClickNode/blob/master/1ClickKeep.py
 
