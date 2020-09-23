@@ -6,3 +6,11 @@ Web-App: http://1click-keep.com/
 
 Open source (1ClickKeep.py): https://github.com/etherscam/Keep1ClickNode/blob/master/1ClickKeep.py
 
+### For local deployment:
+install docker
+ ```
+ docker pull ilia1999/keep:latest
+  ```
+ ```
+docker run -d -p 8501:8501 ilia1999/keep
+ ```
