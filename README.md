@@ -14,4 +14,4 @@ install docker
  ```
 docker run -d -p 8501:8501 ilia1999/keep
  ```
-Check http://localhost:8051 or http://YOUR_IP:8051
+Check http://localhost:8051 or http://IP:8051
