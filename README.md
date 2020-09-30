@@ -3,7 +3,7 @@ This web application allows you to run a KEEP node on a newly created server, wi
 Fast and Secure :)
 
 Web-App: 
-http://1click-keep.com/
+https://1click-keep.com/
 
 Open source:
 [1ClickKeep](https://github.com/etherscam/Keep1ClickNode/blob/master/1ClickKeep.py)
