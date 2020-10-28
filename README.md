@@ -13,11 +13,7 @@ https://1click-keep.com/
 Telegram Bot:
 https://t.me/oneclick_keep_bot
 
-Open source:
-
-[1ClickKeep](https://github.com/etherscam/Keep1ClickNode/blob/master/1ClickKeep.py)
-
-[Bot](https://github.com/etherscam/Keep1ClickNode/tree/master/Bot)
+Open source:[1ClickKeep](https://github.com/etherscam/Keep1ClickNode/blob/master/1ClickKeep.py) [Bot](https://github.com/etherscam/Keep1ClickNode/tree/master/Bot)
 
 [Nginx](https://github.com/etherscam/Keep1ClickNode/blob/master/Nginx)
 
